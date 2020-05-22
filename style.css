@@ -184,8 +184,8 @@ p {
 }
 
 .theta {
-    max-width: 100%;
-    max-height: 100vh;
+    max-width: 90%;
+    max-height: auto;
     grid-area: a;
 }
 
