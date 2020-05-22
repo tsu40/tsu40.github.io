@@ -158,8 +158,8 @@ p {
 }
 
 .iimages {
-    display: block;
-    width: 50%;
+    position: static;
+    left: 60%
 }
 
 
