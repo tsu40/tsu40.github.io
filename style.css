@@ -161,7 +161,35 @@ p {
     padding-left: 21%;
 }
 
+.theta {
+    width=250;
+    height=325;
+}
+.wreck {
+    width = 
+    height = 
+}
+.campuskitchen {
+    width:
+    height:
+}
 
+@media only screen and (max-device-width: 400px) {
+.theta {
+    width=50;
+    height=125;
+}
+.wreck {
+    width:
+    height
+}
+.campuskitchen {
+    width:
+    height:
+}
+}
+    
+    
 .row {
   display: flex;
   flex-wrap: wrap;
