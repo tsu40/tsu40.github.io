@@ -157,9 +157,7 @@ p {
 
 }
 
-.iimages {
-    padding-left: 10%;
-}
+
 
 
 .row {
@@ -173,7 +171,7 @@ p {
   padding: 4px 16px;
 }
 
-.column img {
+.col img {
   margin: 8px 8px;
   vertical-align: middle;
 } 
