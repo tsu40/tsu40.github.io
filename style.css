@@ -179,7 +179,7 @@ p {
   display: grid;
   height; 100%;
   grid-template-areas:
-      "j a e f b k";
+      "a  b";
   padding-left: 20%;
   align-self: center;
 }
@@ -188,14 +188,12 @@ p {
     max-width: 40%;
     max-height: 47vh;
     grid-area: a;
-    align-self: center;
 }
 
 .wreck {
     max-width : 40%;
     max-height : 33vh;
     grid-area: b;
-    align-self: center;
 }
 
 
