@@ -12,3 +12,57 @@
     height:75;
 }
 
+.navbar {
+    background-color: lightblue;
+    list-style-type: none;
+    line-height: 50px;
+    font-size: 20px;
+    font-family: Times New Roman;
+    padding: 0;
+    margin: 0, auto;
+    height: 15%;
+    width: 100%;
+    float: top;
+    position: fixed;
+    text-align: center;
+    border-right: 2px solid black;
+}
+
+
+
+#navbar {
+
+    margin-top: -20px;
+
+}
+
+
+.navbar ul {
+
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    overflow: auto;
+
+}
+
+
+
+
+
+.navbar ul li a {
+
+    display: block;
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0%;   
+
+    transform: translate(-50%, -50%);   
+
+
+
+}
+
