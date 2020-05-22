@@ -178,15 +178,18 @@ p {
 .theta {
     max-width: 40%;
     max-height: 47vh;
+    grid-area: a;
 }
 
 .wreck {
     max-width : 40%;
     max-height : 33vh;
+    grid-area: b;
 }
 .campuskitchen {
     width: 40%;
     height: 31vh;
+    grid-area: c;
 }
 
     
@@ -202,6 +205,9 @@ p {
   padding: 4px 16px;
   display: grid;
   height; 100%;
+  grid-template-areas:
+      "a b"
+      "c d"
 }
 
 .col img {
