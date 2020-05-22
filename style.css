@@ -181,7 +181,8 @@ p {
   grid-template-areas:
       "a  b";
   padding-left: 20%;
-  align-self: center;
+  float: right;
+  padding-right: 20%;
 }
 
 .theta {
