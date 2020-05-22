@@ -149,7 +149,7 @@ p {
 
 }
 
-.img{
+#prof{
 
     float: right;
     margin-right: 20px;
@@ -160,7 +160,7 @@ p {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 4px 4px;
+  padding: 8px 4px;
 }
 
 .col {
