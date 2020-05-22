@@ -157,10 +157,6 @@ p {
 
 }
 
-img {
-    position: fixed;
-    left: 60%;
-}
 
 .row {
   display: flex;
