@@ -157,6 +157,10 @@ p {
 
 }
 
+img {
+    float: center;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
