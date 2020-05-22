@@ -160,6 +160,8 @@ p {
 #iimages {
     position: static;
     right: 40%;
+    top: 0px;
+}
 
 
 .row {
