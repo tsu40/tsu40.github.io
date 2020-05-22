@@ -195,17 +195,10 @@ p {
 }
 
 
-.grid2 {
-  display: grid;
-  height; 100%;
-  grid-template-areas:
-      "c d";
-}
 
 .campuskitchen {
     width: 40%;
-    height: 31vh;
-    grid-area: c;
+    height: auto;
 }
 
     
