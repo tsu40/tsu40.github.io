@@ -157,10 +157,9 @@ p {
 
 }
 
-#iimages {
-    position: static;
-    right: 60%;
-    top: 0px;
+.iimages {
+    display: block;
+    width: 50%;
 }
 
 
