@@ -162,30 +162,30 @@ p {
 }
 
 .theta {
-    width=250;
-    height=325;
+    width:250;
+    height:325;
 }
 .wreck {
-    width = 
-    height = 
+    width : 350;
+    height : 230;
 }
 .campuskitchen {
-    width:
-    height:
+    width: 360;
+    height: 220;
 }
 
 @media only screen and (max-device-width: 400px) {
 .theta {
-    width=50;
-    height=125;
+    width: 50;
+    height: 125;
 }
 .wreck {
-    width:
-    height
+    width:150;
+    height:30;
 }
 .campuskitchen {
-    width:
-    height:
+    width:150;
+    height:30;
 }
 }
     
