@@ -1,0 +1,14 @@
+@media only screen and (max-device-width: 400px) {
+.theta {
+    width: 50;
+    height: 125;
+}
+.wreck {
+    width:150;
+    height:30;
+}
+.campuskitchen {
+    width:150;
+    height:30;
+}
+}
