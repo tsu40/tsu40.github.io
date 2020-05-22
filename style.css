@@ -157,6 +157,19 @@ p {
 
 }
 
+.pimages {
+    padding-left: 21%;
+}
+.keychain {
+    width: 250;
+    height: 325;
+}
+.st1 {
+    width: 350;
+    height: 230;
+}
+
+
 .iimages {
     padding-left: 21%
 }
