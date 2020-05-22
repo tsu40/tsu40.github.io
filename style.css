@@ -178,6 +178,8 @@ p {
 .grid1 {
   display: grid;
   height; 100%;
+  grid-template-areas:
+      "a b";
   padding-left: 15%;
 }
 
