@@ -157,6 +157,10 @@ p {
 
 }
 
+#iimages {
+    position: static;
+    right: 40%;
+
 
 .row {
   display: flex;
