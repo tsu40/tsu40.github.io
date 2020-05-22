@@ -169,7 +169,7 @@ img {
 
 .col {
   flex: 50%;
-  padding: 4px 4px;
+  padding: 4px 8px;
 }
 
 .column img {
