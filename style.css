@@ -200,7 +200,7 @@ p {
   display: grid;
   height; 100%;
   grid-template-areas:
-      "c d"
+      "c d";
 }
 
 .campuskitchen {
