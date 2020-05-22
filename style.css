@@ -180,7 +180,6 @@ p {
   height; 100%;
   grid-template-areas:
       "a b";
-  padding-left: 15%;
 }
 
 .theta {
