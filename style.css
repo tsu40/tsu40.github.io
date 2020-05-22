@@ -158,7 +158,8 @@ p {
 }
 
 img {
-    float: center;
+    position: fixed;
+    left: 60%;
 }
 
 .row {
@@ -169,7 +170,7 @@ img {
 
 .col {
   flex: 50%;
-  padding: 4px 8px;
+  padding: 4px 16px;
 }
 
 .column img {
