@@ -178,23 +178,17 @@ p {
 .grid1 {
   display: grid;
   height; 100%;
-  grid-template-areas:
-      "a  b";
   padding-left: 20%;
-  float: right;
-  padding-right: 20%;
 }
 
 .theta {
     max-width: 40%;
     max-height: 47vh;
-    grid-area: a;
 }
 
 .wreck {
     max-width : 40%;
     max-height : 33vh;
-    grid-area: b;
 }
 
 
