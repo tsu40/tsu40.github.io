@@ -181,18 +181,21 @@ p {
   grid-template-areas:
       "j a e f b k";
   padding-left: 20%;
+  align-self: center;
 }
 
 .theta {
     max-width: 40%;
     max-height: 47vh;
     grid-area: a;
+    align-self: center;
 }
 
 .wreck {
     max-width : 40%;
     max-height : 33vh;
     grid-area: b;
+    align-self: center;
 }
 
 
