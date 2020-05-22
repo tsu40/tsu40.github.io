@@ -172,7 +172,7 @@ p {
 
 
 .iimages {
-    padding-left: 10%
+    padding-left: 10%;
 }
 
 .grid1 {
@@ -180,6 +180,7 @@ p {
   height; 100%;
   grid-template-areas:
       "a b";
+  padding: 4px;
 }
 
 .theta {
@@ -197,7 +198,7 @@ p {
 
 
 .campuskitchen {
-    width: 40%;
+    width: 55%;
     height: auto;
 }
 
