@@ -74,7 +74,10 @@ label.logo {
    margin-top: 5% 
 }
 
-.prof {
+.mprof {
    width: auto;
    height: 45%;
+}
+.prof {
+  display: hidden;
 }
