@@ -43,51 +43,6 @@
 .show {display:block;}
 
 
-
-.navbar {
-    background-color: lightblue;
-    list-style-type: none;
-    font-size: 10px;
-    font-family: Times New Roman;
-    padding: 0;
-    margin: 0, auto;
-    height: 10%;
-    width: 100%;
-    float: top;
-    position: fixed;
-    border-right: 2px solid black;
-}
-
-
-
-#navbar {
-
-    margin-top: -10px;
-
-}
-
-
-.navbar ul {
-
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-    overflow: auto;
-
-}
-
-
-
-.navbar ul li a {
-
-    display: block;
-    position: absolute;
-    text-align: left;
-    padding: 14px;
-
-
-}
-
 .everything {
     padding: 0px;
     font-family: Roboto;
