@@ -135,22 +135,23 @@ h3{
 
 li,
 
-
-
 p {
 
     font-size: 20px;
 
-
 }
 
 
-
-.Intro {
-
-
-
+.skills ul li {
+    font-weight: bold;
+    font-size: 24px;
 }
+.skills p {
+    padding: 20px 0px;
+    font-size: 20px;
+}
+
+
 
 #prof{
 
