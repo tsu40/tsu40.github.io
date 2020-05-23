@@ -159,15 +159,15 @@ p {
 }
 
 .pimages {
-    padding-left: 21%;
+    padding-left: 5%;
 }
 .keychain {
-    width: 250;
-    height: 325;
+    width: 40%;
+    height: auto;
 }
 .st1 {
-    width: 350;
-    height: 230;
+    width: 50%;
+    height: auto;
 }
 
 
