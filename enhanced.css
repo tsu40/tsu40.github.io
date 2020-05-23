@@ -7,38 +7,7 @@ body {
   display: none;
 }
 
-a {
-  color: black;
-}
 
-.header {
-  background-color: white;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  position: fixed;  
-  width: 100%;
-  z-index: 3;
-}
-
- header ul {
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-    background color: none;
- }
-
-.header ul a {
-  display: block;
-  outline: 1px solid red;
-  padding: 20px;
-  border-right: 1px solid red;
-  text-decoration: none;
-}
-
-.header .logo {
-  float: left;
-  display: block;
-  padding: 20 px;
-}
 
 .everything {
     padding: 0px;
