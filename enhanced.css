@@ -75,14 +75,17 @@ label.logo {
    margin-top: 5% 
 }
 
-.everything p {
-  font-size: 12px;
-}
-.everything h1 {
+.everything p, li {
   font-size: 16px;
 }
+.everything h1 {
+  font-size: 50px;
+}
 .everything h2 {
-  font-size: 14px;
+  font-size: 36px;
+}
+.everything h3 {
+  font-size: 18px;
 }
 
 .mprof {
