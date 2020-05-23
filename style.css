@@ -158,6 +158,11 @@ p {
 
 }
 
+.prof {
+   height: 45%;
+   width: auto;
+}
+
 .pimages {
     padding-left: 5%;
 }
