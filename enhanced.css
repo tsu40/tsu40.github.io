@@ -7,6 +7,33 @@ body {
   display: none;
 }
 
+.list {
+  list-style: none;
+}
+.list li {
+  font-family: montserrat;
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+.list li a {
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+nav {
+  background: #0082e6;
+  height: 80px;
+  width:100%;
+}
+label.logo {
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+
 
 
 .everything {
