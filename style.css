@@ -144,12 +144,12 @@ p {
 
 .skills ul li {
     font-weight: bold;
-    font-size: 24px;
+    font-size: 40px;
 }
 .skills p {
-    padding: 35px 0px;
+    padding: 0px 25px;
     font-size: 20px;
-    margin: 12px 0px;
+    margin: 0px 12px;
 }
 
 
