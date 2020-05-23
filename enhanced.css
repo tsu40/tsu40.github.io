@@ -78,6 +78,9 @@ label.logo {
    width: auto;
    height: 45%;
 }
+#mprof{
+  float: left;
+}
 .prof {
   display: none;
 }
