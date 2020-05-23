@@ -160,6 +160,9 @@ p {
 
 }
 
+.mprof {
+    display: none;
+}
 .prof {
    width: auto;
    height: 45%;
