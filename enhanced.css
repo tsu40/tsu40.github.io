@@ -62,6 +62,9 @@ label.logo {
   #check {
     display: none;
   }
+#check:checked ~ ul {
+  left: 0;
+}
 
 
 .everything {
