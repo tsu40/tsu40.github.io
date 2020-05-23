@@ -1,6 +1,5 @@
 body {
   margin-top: 35px;
-  padding: 12px 10px;
 }
 
 .navbar {
@@ -68,7 +67,7 @@ label.logo {
 
 
 .everything {
-    padding: 0px;
+    padding: 8px 10px;
     font-family: Roboto;
     margin-left: 0%;
    margin-top: 5% 
