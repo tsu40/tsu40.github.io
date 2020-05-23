@@ -82,7 +82,7 @@ border-bottom: 3px solid red;
 }
 
 .everything {
-    padding: 10px 15px 10px 20px;
+    padding: 0px 15px 10px 20px;
     margin-left: 20%;
     font-family: Roboto;
     overflow: auto;
