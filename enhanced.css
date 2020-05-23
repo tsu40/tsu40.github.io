@@ -88,13 +88,3 @@ label.logo {
   font-size: 20px;
 }
 
-.mprof {
-   width: auto;
-   height: 45%;
-}
-#mprof{
-  float: left;
-}
-.prof {
-  display: none;
-}
