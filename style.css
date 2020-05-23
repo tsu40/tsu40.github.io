@@ -208,11 +208,13 @@ p {
 
 
 .campuskitchen {
-    width: 60%;
+    width: 55%;
     height: auto;
 }
-
-    
+.me2110 {
+    width: 40%;
+    height: auto;
+}   
     
 .row {
   display: flex;
