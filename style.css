@@ -74,7 +74,67 @@ border-bottom: 3px solid red;
 .navbar a.active {
 
     border-bottom: 3px solid red;
+}
 
+.navbar: hidden;
+
+.list {
+  list-style: none;
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  top: 80px;
+  left: -100%;
+  text-align: center;
+  transition: all .5s;
+}
+.list li {
+  font-family: montserrat;
+  display: block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+.list li a {
+  color: white;
+  font-size: 20px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+a.active,a:hover {
+  background: none;
+  color: #0082e6; 
+  transition: .5s;
+ 
+}  
+
+nav {
+  background: #0082e6;
+  height: 80px;
+  width:100%; 
+}
+label.logo {
+  color: white;
+  font-size: 30px;
+  line-height: 80px;
+  padding-left: 50px;
+  font-weight: bold;
+}
+.checkbtn {
+  font-size: 30px;
+  color: white;
+  float: right;
+  line height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: block;
+  }
+  #check {
+    display: none;
+  }
+#check:checked ~ ul {
+  left: 0;
 }
 
 .header {
@@ -83,7 +143,7 @@ border-bottom: 3px solid red;
 
 .everything {
     padding: 0px 15px 10px 20px;
-    margin-left: 20%;
+    /*margin-left: 20%;*/
     font-family: Roboto;
     overflow: auto;
 
