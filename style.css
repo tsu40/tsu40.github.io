@@ -89,7 +89,7 @@ label {
   padding: 0 100px;
   font-weight: bold;
 } 
-
+/*
 nav ul {
     float: right;
     margin-right: 20px;
@@ -116,7 +116,7 @@ nav ul li a {
 a.active,a:hover {
   background: #1b9bff; 
   transition: .5s;
-/* 
+ 
 }
 .checkbtn {
   font-size: 30px;
