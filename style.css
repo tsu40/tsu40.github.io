@@ -193,14 +193,14 @@ p {
 }
 
 .theta {
-    max-width: 40%;
-    max-height: auto;
+    width: 40%;
+    height: auto;
     grid-area: a;
 }
 
 .wreck {
-    max-width : 54%;
-    max-height : auto;
+    width : 54%;
+    height : auto;
     grid-area: b;
 }
 
