@@ -195,11 +195,13 @@ p {
 .theta {
     width: 40%;
     height: auto;
+    position: static;
 }
 
 .wreck {
     width : 54%;
     height : auto;
+    position: static;
 }
 
 
@@ -207,10 +209,12 @@ p {
 .campuskitchen {
     width: 54%;
     height: auto;
+    position: static;
 }
 .me2110 {
     width: 40%;
     height: auto;
+    position: static;
 }   
     
 .row {
