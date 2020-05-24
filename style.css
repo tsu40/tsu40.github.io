@@ -215,6 +215,7 @@ p {
     width: 40%;
     height: auto;
     position: static;
+    margin-bottom: -5%;
 }   
     
 .row {
