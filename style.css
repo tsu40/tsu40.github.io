@@ -188,10 +188,10 @@ p {
   display: grid;
   height; 100%;
   grid-template-areas:
-      "a a b b b"
-      "a a b b b"
-      "c c c d d"
-      "c c c d d;
+      "a b b"
+      "a d d"
+      "c c d"
+      "c c d";
   grid-gap: 10px 10px;
   align-items: start;
 }
