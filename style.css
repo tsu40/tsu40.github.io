@@ -188,10 +188,9 @@ p {
   display: grid;
   height; 100%;
   grid-template-areas:
-      "a b b"
-      "a d d"
-      "c c d"
-      "c c d";
+      "a a b b"
+      "a a d d"
+      "c c d d";
   grid-gap: 10px 10px;
   align-items: start;
 }
@@ -209,12 +208,12 @@ p {
 
 
 .campuskitchen {
-    max-width: 90%;
-    max-height: 90vh;
+    max-width: 50%;
+    max-height: 50vh;
 }
 .me2110 {
-    max-width: 90%;
-    max-height: 90vh;
+    max-width: 50%;
+    max-height: 50vh;
 }   
     
 a {
