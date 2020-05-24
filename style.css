@@ -190,7 +190,6 @@ p {
   grid-template-areas:
       "a a b b b"
       "a a b b b"
-      "a a a d d"
       "c c c d d"
       "c c c d d;
   grid-gap: 10px 10px;
