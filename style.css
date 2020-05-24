@@ -76,7 +76,9 @@ border-bottom: 3px solid red;
     border-bottom: 3px solid red;
 }
 
-.navbar: hidden;
+.navbar {
+    display: hidden;
+}
 
 .list {
   list-style: none;
