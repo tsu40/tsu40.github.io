@@ -189,8 +189,8 @@ p {
   height; 100%;
   grid-template-areas:
       "a a b b"
-      "a a d d
-      "c c d d;
+      "a a d d"
+      "c c d d";
   grid-gap: 10px 10px;
 }
 
