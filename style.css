@@ -88,7 +88,7 @@ label {
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
-} 
+} /*
 nav ul {
     float: right;
     margin-right: 20px;
@@ -100,11 +100,11 @@ nav ul {
     box-sizing: border-box;
     list-style: none;
     color: white;
-    /*display: inline-block;*/
+    display: inline-block;
 }
 
 nav ul li {
-  /*display: inline-block;*/
+  display: inline-block;
   line-height: 80px;
   margin: 0 20px;
   color: white;
@@ -116,7 +116,7 @@ nav ul li a {
   padding: 7px 13px;
   border-radius: 3px;
   position: absolute;
-}
+}*/
 /*
 a.active,a:hover {
   background: #1b9bff; 
