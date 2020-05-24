@@ -192,6 +192,7 @@ p {
       "a a d d"
       "c c d d";
   grid-gap: 10px 10px;
+  align-items: start;
 }
 
 .theta {
