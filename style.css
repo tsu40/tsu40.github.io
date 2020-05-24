@@ -88,7 +88,7 @@ label {
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
-} /*
+} 
 nav ul {
     float: right;
     margin-right: 20px;
@@ -101,7 +101,7 @@ nav ul {
     list-style: none;
     color: white;
     display: inline-block;
-}
+}/*
 
 nav ul li {
   display: inline-block;
