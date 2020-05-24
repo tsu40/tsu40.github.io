@@ -101,7 +101,7 @@ nav ul {
     list-style: none;
     color: white;
     display: inline-block;
-}/*
+}
 
 nav ul li {
   display: inline-block;
@@ -116,7 +116,8 @@ nav ul li a {
   padding: 7px 13px;
   border-radius: 3px;
   position: absolute;
-}*/
+  list-style: none;
+}
 /*
 a.active,a:hover {
   background: #1b9bff; 
