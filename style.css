@@ -198,13 +198,11 @@ p {
 .theta {
     max-width: 90%;
     max-height: 90vh;
-    grid-area: a;
 }
 
 .wreck {
     max-width: 90%;
     max-height: 90vh;
-    grid-area: b;
 }
 
 
@@ -212,14 +210,25 @@ p {
 .campuskitchen {
     max-width: 90%;
     max-height: 90vh;
-    grid-area: c;
 }
 .me2110 {
     max-width: 90%;
     max-height: 90vh;
-    grid-area: d;
 }   
     
+a {
+    grid-area: a;
+}
+b {
+    grid-area: b;
+}
+c {
+    grid-area: c;
+}
+d {
+    grid-area: d;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
