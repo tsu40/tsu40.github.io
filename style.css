@@ -138,11 +138,6 @@ a.active,a:hover {
 
 
 
-
-.header {
-    display: none;
-}
-
 .everything {
     padding: 0px 15px 10px 20px;
     /*margin-left: 20%;*/
@@ -157,7 +152,7 @@ h1 {
 
     font-family: Roboto;
     font-size: 65px;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
 
 
 }
