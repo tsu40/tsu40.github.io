@@ -201,24 +201,24 @@ p {
 }
 
 .wreck {
-    max-width: 50%;
-    max-height: 50vh;
+    max-width: 200%;
+    max-height: 200vh;
 }
 
 
 
 .campuskitchen {
-    max-width: 50%;
-    max-height: 50vh;
+    max-width: 200%;
+    max-height: 200vh;
 }
 .me2110 {
-    max-width: 50%;
-    max-height: 50vh;
+    max-width: 200%;
+    max-height: 200vh;
 }   
     
 a {
-    max-width: 50%;
-    max-height: 50vh;
+    max-width: 200%;
+    max-height: 200vh;
     grid-area: a;
 }
 b {
