@@ -188,11 +188,11 @@ p {
   display: grid;
   height; 100%;
   grid-template-areas:
-      "a a a b b b b b"
-      "a a a b b b b b"
-      "a a a e d d d d"
-      "c c c c d d d d"
-      "c c c c d d d d;
+      "a a a b b b b"
+      "a a a b b b b"
+      "a a a e d d d"
+      "c c c c d d d"
+      "c c c c d d d;
   grid-gap: 10px 10px;
   align-items: start;
 }
