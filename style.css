@@ -195,13 +195,11 @@ p {
 .theta {
     width: 40%;
     height: auto;
-    grid-area: a;
 }
 
 .wreck {
     width : 54%;
     height : auto;
-    grid-area: b;
 }
 
 
