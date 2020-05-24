@@ -188,35 +188,35 @@ p {
   display: grid;
   height; 100%;
   grid-template-areas:
-      "a b";
-  padding: 4px;
+      "a a b b"
+      "a a d d
+      "c c d d;
+  grid-gap: 10px 10px;
 }
 
 .theta {
-    width: 40%;
-    height: auto;
-    position: static;
+    max-width: 90%;
+    max-height: auto;
+    grid-area: a;
 }
 
 .wreck {
-    width : 54%;
-    height : auto;
-    position: static;
-    float: top;
+    max-width: 90%;
+    max-height: auto;
+    grid-area: b;
 }
 
 
 
 .campuskitchen {
-    width: 54%;
-    height: auto;
-    position: static;
+    max-width: 90%;
+    max-height: auto;
+    grid-area: c;
 }
 .me2110 {
-    width: 40%;
-    height: auto;
-    position: static;
-    margin-bottom: 30px;
+    max-width: 90%;
+    max-height: auto;
+    grid-area: d;
 }   
     
 .row {
