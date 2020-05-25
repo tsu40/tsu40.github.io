@@ -92,16 +92,14 @@ label {
 nav ul {
     float: right;
     margin-right: 20px;
+    padding: 0;
     text-transform: uppercase;
-}
-.list {
-    list-style: none;
 }
 
 nav ul li {
+  list-style: none;
   display: inline-block;
-  line-height: 80px;
-  margin: 0 5px;
+  padding: 20px;
 }
 nav ul li a {
   color: white;
@@ -109,30 +107,11 @@ nav ul li a {
   /*padding: 7px 40px;
   border-radius: 3px;*/
   position: absolute;
+  text-decoration: none;
 }
-/*
-a.active,a:hover {
-  background: #1b9bff; 
-  transition: .5s;
- 
+nav ul li:hover {
+    background:#0082e6;
 }
-.checkbtn {
-  font-size: 30px;
-  color: white;
-  float: right;
-  line height: 80px;
-  margin-right: 40px;
-  cursor: pointer;
-  display: none;
-  }
-  #check {
-    display: none;
-  }
-#check:checked ~ ul {
-  left: 0;
-}
-*/
-
 
 .everything {
     padding: 0px 15px 10px 20px;
