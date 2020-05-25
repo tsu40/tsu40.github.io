@@ -14,13 +14,12 @@ body {
    width: 20%;
    height: 100%;
    float: left;
-   position: fixed;
    text-align: center; 
 }
 .dnav li a {
     text-decoration: none;
     color: #fff;
-    padding: 15px;
+    padding: 20px;
     display: block;
 }
 .dnav li a:hover {
