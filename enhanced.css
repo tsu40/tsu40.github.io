@@ -5,17 +5,6 @@ body {
   overflow: hidden;
 }
 
-.navbar {
-  display: none;
-}
-
-.navbar ul li {
-  display: none;
-}
-
-.navbar ul li a {
-  display: none;
-}
 
 
 nav {
@@ -84,12 +73,6 @@ nav ul li: hover {
      }
     .active {
         display: block;
-    .navbar {
-      display: none;
-    }
-      .navbar li a {
-        display: none;
-      }
 }
 
 
