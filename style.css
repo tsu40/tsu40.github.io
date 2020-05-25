@@ -91,7 +91,7 @@ label {
 } 
 nav ul {
     float: right;
-    margin-right: 20px;
+    margin-right: 50px;
     text-transform: uppercase;
     color: white;
 }
@@ -111,7 +111,7 @@ nav ul li {
 nav ul li a {
   color: white;
   font-size: 17px;
-  padding: 7px 24px;
+  padding: 7px 40px;
   border-radius: 3px;
   position: absolute;
   list-style: none;
