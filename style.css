@@ -13,8 +13,8 @@ body {
 
 nav {
     background: #0082e6;
-    height: 80px;
-    width: 100%; 
+    height: 100%;
+    width: 20%; 
     padding: 0;
     margin: 0;
 }
@@ -26,11 +26,10 @@ label {
   font-weight: bold;
 } 
 nav ul {
-    width: 80%
     margin: 0 auto;
     padding: 0;
     text-transform: uppercase;
-    width: 20%;
+    width: 80%;
     text-align: center;
     height: 100vh;
     background: #2c3e50;
