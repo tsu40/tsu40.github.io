@@ -142,7 +142,9 @@ nav ul li: hover {
         display: block;
 }
 
-
+h3 a {
+    color: black;
+}
 
 .everything {
     padding: 0px 15px 10px 20px;
