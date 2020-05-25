@@ -4,7 +4,6 @@ body {
     padding: 0.5px;
     margin-top: 0px;
     font-family: montserrat;
-    text-decoration: none;
 }
 
 
@@ -90,8 +89,8 @@ label {
   font-weight: bold;
 } 
 nav ul {
-    float: right;
-    margin-right: 20px;
+    width: 80%
+    margin: 0 auto;
     padding: 0;
     text-transform: uppercase;
 }
@@ -99,8 +98,7 @@ nav ul {
 nav ul li {
   list-style: none;
   display: inline-block;
-  padding: 40px;
-  margin-right: 80px;   
+  padding: 20px;  
 }
 nav ul li a {
   color: white;
