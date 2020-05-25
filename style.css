@@ -112,12 +112,12 @@ nav ul li: hover {
 }
 .toggle {
     width: 100%;
-    padding: 20px 20px;
+    padding: 10px 20px;
     background:#0082e6;
     text-align:right;
     box-sizing: border-box;
     color: #fff;
-    font-size: 50px;
+    font-size: 30px;
     cursor: pointer;
     display: none;
 }
