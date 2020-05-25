@@ -127,6 +127,7 @@ nav ul li a {
 
     ul {
         width: 100%;
+        text-align: center;
     }
     ul li {
         display: block;
