@@ -39,7 +39,6 @@ body {
     overflow: auto;
 }
 
-
 .navbar ul li a {
 
     display: block;
@@ -48,35 +47,18 @@ body {
 
     top: 50%;
 
-    left: 10%;   
-
-    transform: translate(-50%, -50%);   
+    left: 10%;    
 
 
-}
-
-
-
-.navbar ul li a:hover {
-
-
-
-border-bottom: 3px solid red;
-
-
-}
-
-
-.navbar a.active {
-
-    border-bottom: 3px solid red;
 }
 
 .list {
     display: none;
 }
 
-
+nav logo {
+    display: none;
+}
 
 h3 a {
     color: black;
