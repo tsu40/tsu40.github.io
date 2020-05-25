@@ -39,6 +39,9 @@ nav ul li {
   float: left;
   text-align: center;
   padding: 30px 70px;  
+  background: lightblue;
+  height: 100%;
+  width: 20%;   
 }
 nav ul li a {
   color: white;
