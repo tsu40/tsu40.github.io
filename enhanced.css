@@ -8,6 +8,15 @@ body {
   display: none;
 }
 
+.navbar ul li {
+  display: none;
+}
+
+.navbar ul li a {
+  display: none;
+}
+
+
 nav {
     background: #0082e6;
     height: 80px;
