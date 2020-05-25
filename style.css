@@ -132,11 +132,14 @@ nav ul li: hover {
         text-align: center;
         height: 50vh;
         background: #2c3e50;
+        display: none;
     }
     nav ul li {
         display: block;
         text-align: center;
      }
+    .active {
+        display: block;
 }
 
 
