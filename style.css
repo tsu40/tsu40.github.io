@@ -119,6 +119,19 @@ nav ul li a {
     font-size: 30px;
     display: none;
 }
+@media(max-width: 768px) {
+    .toggle {
+        display: block;
+    }
+
+    ul {
+        width: 100%
+    }
+    ul li {
+        display: block;
+        text-align: center;
+     }
+}
 
 .everything {
     padding: 0px 15px 10px 20px;
