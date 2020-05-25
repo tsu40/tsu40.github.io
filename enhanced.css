@@ -5,7 +5,9 @@ body {
   overflow: hidden;
 }
 
-
+dnav {
+  display: none;
+}
 
 nav {
     background: #0082e6;
@@ -73,8 +75,8 @@ nav ul li: hover {
      }
     .active {
         display: block;
+  }
 }
-
 
 .everything {
     padding: 8px 10px;
