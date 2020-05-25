@@ -99,14 +99,14 @@ nav ul {
     list-style: none;
     color: white;
 }
-/*
+
 nav ul li {
   display: inline-block;
   line-height: 80px;
-  margin: 0 50px;
+  margin: 0 5px;
   color: white;
 }
-
+/*
 nav ul li a {
   color: white;
   font-size: 17px;
