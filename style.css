@@ -8,7 +8,7 @@ body {
 
 
 .navbar {
-
+    display: none;
     background-color: #0082e6;
     list-style-type: none;
     line-height: 50px;
