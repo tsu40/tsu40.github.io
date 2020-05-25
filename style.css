@@ -93,27 +93,22 @@ nav ul {
     float: right;
     margin-right: 20px;
     text-transform: uppercase;
-    color: white;
 }
 .list {
     list-style: none;
-    color: white;
 }
 
 nav ul li {
   display: inline-block;
   line-height: 80px;
-  margin: 0 80px 0 5px;
-  color: white;
+  margin: 0 5px;
 }
-/*
 nav ul li a {
   color: white;
   font-size: 17px;
-  padding: 7px 40px;
-  border-radius: 3px;
+  /*padding: 7px 40px;
+  border-radius: 3px;*/
   position: absolute;
-  list-style: none;
 }
 /*
 a.active,a:hover {
