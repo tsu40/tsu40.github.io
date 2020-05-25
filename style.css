@@ -7,52 +7,7 @@ body {
 }
 
 
-.navbar {
-    display: none;
-    background-color: #0082e6;
-    list-style-type: none;
-    line-height: 50px;
-    font-size: 20px;
-    font-family: Times New Roman;
-    padding: 0;
-    margin-top: 20px, auto;
-    height: 100%;
-    width: 20%;
-    float: left;
-    position: fixed;
-    text-align: center;
-    margin-right: -20%;
-}
 
-
-#navbar {
-    margin-top: -22px;
-    margin-right: -20%;
-}
-
-
-
-.navbar ul {
-
-    padding: 0;
-    margin-right: -20%;
-    list-style-type: none;
-    overflow: auto;
-}
-
-.navbar ul li a {
-
-    display: block;
-    color: white;
-    position: absolute;
-
-    top: 50%;
-
-    left: 10%;    
-    margin-right: -20%;
-
-
-}
 
 .list {
     display: none;
