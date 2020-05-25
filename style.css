@@ -6,27 +6,9 @@ body {
     font-family: montserrat;
 }
 
-.dnav {
-   padding: 0;
-   margin: 0;
-   list-style-type: none;
-   background-color: lightblue;
-   width: 20%;
-   height: 100%;
-   float: left;
-   text-align: center; 
+dnav {
+    display: hidden;
 }
-.dnav li a {
-    text-decoration: none;
-    color: #fff;
-    padding: 20px;
-    display: block;
-}
-.dnav li a:hover {
-    color: black;
-    background-color: #aaa;
-}
-
 
 .list {
     display: none;
