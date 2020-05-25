@@ -22,7 +22,6 @@ body {
     color: #fff;
     padding: 15px;
     display: block;
-    position: absolute;
 }
 .dnav li a:hover {
     color: black;
