@@ -25,7 +25,11 @@ body {
     color: black;
     background-color: #aaa;
 }
-    
+
+
+.list {
+    display: none;
+}
 label {
     display: none;
 }
