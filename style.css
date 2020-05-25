@@ -104,14 +104,14 @@ nav ul {
 nav ul li {
   display: inline-block;
   line-height: 80px;
-  margin: 0 40px;
+  margin: 0 5px;
   color: white;
 }
 
 nav ul li a {
   color: white;
   font-size: 17px;
-  padding: 7px 13px;
+  padding: 7px 24px;
   border-radius: 3px;
   position: absolute;
   list-style: none;
