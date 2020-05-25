@@ -12,11 +12,7 @@ body {
 
 
 nav {
-    background: #0082e6;
-    height: 100%;
-    width: 20%; 
-    padding: 0;
-    margin: 0;
+
 }
 label {
   color: white;
@@ -29,11 +25,12 @@ nav ul {
     margin: 0 auto;
     padding: 0;
     text-transform: uppercase;
-    width: 80%;
     text-align: center;
-    height: 100vh;
-    background: #2c3e50;
     display: none;
+    background: #0082e6;
+    height: 100%;
+    width: 20%; 
+    padding: 0;
 }
 
 nav ul li {
