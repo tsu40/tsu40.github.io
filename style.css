@@ -7,11 +7,32 @@ body {
 }
 
 
-
-
-.list {
+dnav {
     display: none;
 }
+
+.list {
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+   background color: #4b4276;
+   width: 20%;
+   height: 100%;
+   float: left;
+}
+
+.list li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    display: block;
+}
+
+.list li a:hover {
+    color: black;
+    background-color: #aaa;
+}
+    
 
 label {
     display: none;
