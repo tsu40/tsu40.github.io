@@ -71,7 +71,9 @@ border-bottom: 3px solid red;
 
     border-bottom: 3px solid red;
 }
-
+.mbar {
+    display: none;
+}
 
 nav {
     background: #0082e6;
