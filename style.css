@@ -122,7 +122,7 @@ nav ul li: hover {
     cursor: pointer;
     display: none;
 }
-@media(max-width: 768px) {
+@media(max-width: 780px) {
     .toggle {
         display: block;
     }
@@ -130,7 +130,7 @@ nav ul li: hover {
     nav ul {
         width: 100%;
         text-align: center;
-        height: 50vh;
+        height: 70vh;
         background: #2c3e50;
         display: none;
     }
