@@ -8,6 +8,20 @@ body {
   display: none;
 }
 
+@media(max-width: 768px) {
+    .toggle {
+        display: block;
+    }
+
+    ul {
+        width: 100%;
+        text-align: center;
+    }
+    ul li {
+        display: block;
+        text-align: center;
+     }
+}
 
 
 .everything {
