@@ -149,7 +149,7 @@ h3 a {
 
 .everything {
     padding: 0px 15px 10px 20px;
-    *margin-left: 20%;
+    margin-left: 20%;
     font-family: Roboto;
     overflow: auto;
 
