@@ -83,6 +83,9 @@ nav ul li: hover {
      }
     .active {
         display: block;
+    .navbar {
+      display: none;
+    }
 }
 
 
