@@ -32,7 +32,8 @@ nav ul {
 nav ul li {
   list-style: none;
   display: inline-block;
-  padding: 30px 70px;  
+  padding: 30px 70px; 
+  float: none;
 }
 nav ul li a {
   color: white;
