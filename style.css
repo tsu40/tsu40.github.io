@@ -16,6 +16,10 @@ body {
 nav logo {
     display: none;
 }
+.toggle {
+    display: none;
+}
+
 
 h3 a {
     color: black;
