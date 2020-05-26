@@ -18,18 +18,17 @@ label {
 } 
 nav ul {
     margin: 0 auto;
-    padding: 20px;
     text-transform: uppercase;
-    text-align: center;
     padding: 0;
     display: block;
     background: lightblue;
-    height: 100vh;
+    height: 100%;
     width: 20%;   
     float: left;
     position: fixed;
+    overflow: auto;
 }
-
+/*
 nav ul li {
   list-style: none;
   margin: 5px 0;  
@@ -39,7 +38,7 @@ nav ul li a {
   font-size: 17px;
   position: absolute;
   text-decoration: none;
-}/*
+}
 nav ul li: hover {
     background: black;
 }
