@@ -14,7 +14,9 @@ body {
 #check {
   display: none;
 }
-/*
+.checkbtn {
+    display: none;
+}
 nav {
 }
 label {
@@ -47,7 +49,7 @@ nav ul li a {
 nav ul li: hover {
     background: white;
 }
-*/
+
 
 h3 a {
     color: black;
