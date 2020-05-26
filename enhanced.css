@@ -18,7 +18,7 @@ label {
 }
 .checkbtn {
   font-size:30px;
-  color: white;
+  color: black;
   float: right;
   line-height: 80px;
   margin-right: 40px;
@@ -26,10 +26,6 @@ label {
   display: block;
 }
 
-nav {
-  width: 80px;
-  height: 100%;
-}
 /*nav ul {
     margin: 0 auto;
     text-transform: uppercase;
