@@ -22,7 +22,6 @@ nav ul {
     text-transform: uppercase;
     text-align: center;
     padding: 0;
-    float: left;
 }
 
 nav ul li {
@@ -30,8 +29,8 @@ nav ul li {
   display: block;
   text-align: center; 
   background: lightblue;
-  height: 100%;
-  width: 20vh;   
+  height: 100vh;
+  width: 20%;   
   margin: 5px 0;  
 }
 nav ul li a {
