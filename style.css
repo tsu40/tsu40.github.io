@@ -9,7 +9,9 @@ body {
 .dnav {
     display: hidden;
 }
-
+.toggle {
+    display: none;
+}
 
 nav {
 }
