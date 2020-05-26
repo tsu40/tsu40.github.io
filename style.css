@@ -14,7 +14,7 @@ body {
 #check {
   display: none;
 }
-
+/*
 nav {
 }
 label {
@@ -42,13 +42,12 @@ nav ul li {
 nav ul li a {
   color: black;
   font-size: 17px;
- /* position: absolute;*/
   text-decoration: none;
 }
 nav ul li: hover {
     background: white;
 }
-
+*/
 
 h3 a {
     color: black;
