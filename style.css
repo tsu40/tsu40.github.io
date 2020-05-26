@@ -26,12 +26,12 @@ nav ul {
     background: lightblue;
     height: 100vh;
     width: 20%;   
-    float: right;
+    float: left;
+    position: fixed;
 }
 
 nav ul li {
   list-style: none;
-  text-align: center;
   margin: 5px 0;  
 }
 nav ul li a {
