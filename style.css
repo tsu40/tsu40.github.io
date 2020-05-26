@@ -26,17 +26,18 @@ nav ul {
     text-transform: uppercase;
     text-align: center;
     padding: 0;
+    float: left;
 }
 
 nav ul li {
   list-style: none;
   display: block;
-  float: left;
-  text-align: center;
-  padding: 30px 70px;  
+  text-align: center; 
   background: lightblue;
   height: 100%;
   width: 20%;   
+  line-height: 80px;
+  margin: 5px 0;  
 }
 nav ul li a {
   color: white;
@@ -51,9 +52,6 @@ nav ul li: hover {
 }
 
 
-label {
-    display: none;
-}
 .toggle {
     display: none;
 }
