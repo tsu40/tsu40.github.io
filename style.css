@@ -36,25 +36,18 @@ nav ul li {
   background: lightblue;
   height: 100%;
   width: 20%;   
-  line-height: 80px;
   margin: 5px 0;  
 }
-nav ul li a {
+/*nav ul li a {
   color: white;
   font-size: 17px;
-  /*padding: 7px 40px;
-  border-radius: 3px;*/
   position: absolute;
   text-decoration: none;
 }
 nav ul li: hover {
     background: black;
 }
-
-
-.toggle {
-    display: none;
-}
+*/
 
 
 h3 a {
