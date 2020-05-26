@@ -19,7 +19,7 @@ label {
     display: none;
 } 
 nav ul {
-    margin: 0 auto;
+    margin: 0 0;
     text-transform: uppercase;
     padding: 0;
     display: block;
@@ -30,11 +30,13 @@ nav ul {
     position: fixed;
     overflow: auto;
 }
-/*
+
 nav ul li {
   list-style: none;
   margin: 5px 0;  
-}
+  text-align: center; 
+  padding: 20px;  
+}/*
 nav ul li a {
   color: white;
   font-size: 17px;
