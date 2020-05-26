@@ -12,7 +12,9 @@ body {
 
 
 nav {
-
+ background: lightblue;
+ height: 100%;
+ width: 20%
 }
 label {
   color: white;
