@@ -8,7 +8,57 @@ body {
   display: none;
 }
 
+label {
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 50px;
+    font-weight: bold
 
+}
+.checkbtn {
+  font-size:30px;
+  color: white;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: block;
+}
+
+nav {
+  width: 80px;
+  height: 100%;
+}
+/*nav ul {
+    margin: 0 auto;
+    text-transform: uppercase;
+    padding: 0;
+    display: block;
+    background: lightblue;
+    height: 100%;
+    width: 20%;   
+    float: left;
+    position: fixed;
+    overflow: auto;
+}
+
+nav ul li {
+  list-style: none;
+  margin-top: 55px;  
+  text-align: center; 
+  padding: 0 0;  
+}
+nav ul li a {
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+}
+nav ul li: hover {
+    background: white;
+}  
+*/  
+  
 
 .everything {
     padding: 8px 10px;
