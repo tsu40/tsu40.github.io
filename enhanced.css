@@ -25,26 +25,25 @@ label {
   cursor: pointer;
   display: block;
 }
-
-/*nav ul {
+#check {
+  display: none;
+}
+nav ul {
     margin: 0 auto;
     text-transform: uppercase;
     padding: 0;
     display: block;
-    background: lightblue;
-    height: 100%;
-    width: 20%;   
-    float: left;
+    background: #2c3e50;
+    height: 80vh;
+    width: 100%;   
+    float: none;
     position: fixed;
     overflow: auto;
 }
 
 nav ul li {
-  list-style: none;
-  margin-top: 55px;  
-  text-align: center; 
-  padding: 0 0;  
-}
+  display: block;
+}/*
 nav ul li a {
   color: black;
   font-size: 16px;
