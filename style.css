@@ -11,6 +11,9 @@ body {
 .toggle {
     display: none;
 }
+#check {
+  display: none;
+}
 
 nav {
 }
