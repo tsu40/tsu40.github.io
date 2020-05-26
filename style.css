@@ -12,9 +12,6 @@ body {
 
 
 nav {
- background: lightblue;
- height: 100%;
- width: 20%
 }
 label {
   color: white;
@@ -28,7 +25,7 @@ nav ul {
     padding: 0;
     text-transform: uppercase;
     text-align: center;
-    display: none;
+    display: block;
     background: lightblue;
     height: 100%;
     width: 20%; 
