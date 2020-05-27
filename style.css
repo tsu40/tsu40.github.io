@@ -5,18 +5,16 @@ body {
     font-family: montserrat;
 }
 
-.dnav {
-    display: none;
-}
+
 .toggle {
     display: none;
 }
 #check {
   display: none;
 }
-.checkbtn {
+/*.checkbtn {
     display: none;
-}
+}*/
 nav {
 }
 label {
