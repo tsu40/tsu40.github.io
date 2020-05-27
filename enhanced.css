@@ -43,6 +43,8 @@ nav ul {
     height: 80%;
     width: 100%;   
     float: none;
+    top: -80%;
+    transition: all .5s;
     overflow: auto;
 }
 nav ul li {
