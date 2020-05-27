@@ -5,8 +5,8 @@ body {
     font-family: montserrat;
 }
 
-.dnav {
-    display: hidden;
+/*.dnav {
+    display: none;
 }
 .toggle {
     display: none;
@@ -21,7 +21,7 @@ nav {
 }
 label {
     display: none;
-} 
+} */
 nav ul {
     margin: 0 auto;
     text-transform: uppercase;
@@ -35,7 +35,7 @@ nav ul {
     overflow: auto;
 }
 
-nav ul li {
+/*nav ul li {
   list-style: none;
   margin-top: 55px;  
   text-align: center; 
@@ -48,7 +48,7 @@ nav ul li a {
 }
 nav ul li: hover {
     background: white;
-}
+}*/
 
 
 h3 a {
