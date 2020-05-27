@@ -16,7 +16,7 @@ nav {
 label {
     display: none;
 } 
-nav ul {
+/*nav ul {
     margin: 0 auto;
     text-transform: uppercase;
     padding: 0;
@@ -44,7 +44,7 @@ nav ul li: hover {
     background: white;
 }
 
-
+*/
 h3 a {
     color: black;
 }
