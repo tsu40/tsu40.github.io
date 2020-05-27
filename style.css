@@ -35,7 +35,7 @@ nav ul {
     overflow: auto;
 }
 
-/*nav ul li {
+nav ul li {
   list-style: none;
   margin-top: 55px;  
   text-align: center; 
@@ -48,7 +48,7 @@ nav ul li a {
 }
 nav ul li: hover {
     background: white;
-}*/
+}
 
 
 h3 a {
