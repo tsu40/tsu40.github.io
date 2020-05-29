@@ -32,8 +32,7 @@ nav ul li {
   list-style: none;
   margin-top: 55px;  
   text-align: center; 
-  padding: 0 0;  
-  display: block;  
+  padding: 0 0;   
 }
 nav ul li a {
   color: black;
@@ -54,7 +53,9 @@ nav ul li: hover {
     text-align right;
     box-sizing: block;
 }
-
+.active {
+    display: block;
+}
 
 
 h3 a {
