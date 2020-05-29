@@ -11,19 +11,17 @@ body {
 .checkbtn {
     display: none;
 }*/
-/*nav {
+nav {
+    background: lightblue;
+    height: 80px;
+    width: 100%;      
 }
-label {
-    display: none;*/
-} 
+
 nav ul {
     margin: 0 auto;
     text-transform: uppercase;
     padding: 0;
     display: block;
-    background: lightblue;
-    height: 100%;
-    width: 20%;   
     float: left;
     position: fixed;
     overflow: auto;
@@ -49,13 +47,13 @@ h3 a {
     color: black;
 }
 
-.everything {
+/*.everything {
     padding: 0px 15px 10px 20px;
     margin-left: 20%;
     font-family: Roboto;
     overflow: auto;
 
-}
+}*/
 
 
 
