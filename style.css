@@ -17,10 +17,10 @@ label {
     line-height: 80px;
     padding-left: 50px;
     font-weight: bold;
-}
 
+}
 nav {
-    background: #001f44;
+    background: lightblue;
     height: 80px;
     width: 100%;      
     position: fixed;
@@ -30,6 +30,7 @@ nav ul {
     margin: 0 auto;
     text-transform: uppercase;
     padding: 0;
+    display: block;
     position: fixed;
     overflow: auto;
     background: #2c3e50;
@@ -40,10 +41,9 @@ nav ul {
 
 nav ul li {
   list-style: none;
-  margin-top: 40px;  
+  margin-top: 80px;  
   text-align: center; 
   padding: 0 0;   
-  display: block;  
 }
 nav ul li a {
   color: black;
@@ -60,7 +60,7 @@ nav ul li: hover {
     line-height: 80px;
     padding-left: 50px;
     font-weight: bold
-    text-align: right;
+    text-align right;
     box-sizing: block;
 }
 .active {
