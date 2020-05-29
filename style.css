@@ -20,7 +20,7 @@ label {
 }
 
 nav {
-    background: lightblue;
+    background: #001f44;
     height: 80px;
     width: 100%;      
     position: fixed;
@@ -30,7 +30,6 @@ nav ul {
     margin: 0 auto;
     text-transform: uppercase;
     padding: 0;
-    display: block;
     position: fixed;
     overflow: auto;
     background: #2c3e50;
@@ -44,6 +43,7 @@ nav ul li {
   margin-top: 40px;  
   text-align: center; 
   padding: 0 0;   
+  display: block;  
 }
 nav ul li a {
   color: black;
