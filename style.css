@@ -20,7 +20,7 @@ label {
 
 }
 nav {
-    background: #e91e63;
+    background: #0082e6;
     height: 80px;
     width: 100%;      
     position: fixed;
@@ -59,7 +59,7 @@ nav ul li: hover {
     font-size: 30px;
     line-height: 80px;
     padding-left: 50px;
-    font-weight: bold
+    font-weight: bold;
     text-align: right;
     box-sizing: block;
 }
