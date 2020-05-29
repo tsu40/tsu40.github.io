@@ -62,6 +62,7 @@ nav ul li: hover {
     font-weight: bold;
     text-align: right;
     box-sizing: block;
+    margin: 0 30px 30px 0;
 }
 .active {
     display: block;
