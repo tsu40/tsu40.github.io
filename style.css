@@ -22,9 +22,9 @@ nav ul {
     text-transform: uppercase;
     padding: 0;
     display: block;
-    float: left;
     position: fixed;
     overflow: auto;
+    background: #2c3e50;
 }
 
 nav ul li {
