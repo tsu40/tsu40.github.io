@@ -20,14 +20,14 @@ label {
 
 }
 nav {
-    background: lightblue;
+    background: #e91e63;
     height: 80px;
     width: 100%;      
     position: fixed;
 }
 
 nav ul {
-    margin: 0 auto;
+    top-margin: 80px auto;
     text-transform: uppercase;
     padding: 0;
     display: block;
@@ -60,7 +60,7 @@ nav ul li: hover {
     line-height: 80px;
     padding-left: 50px;
     font-weight: bold
-    text-align right;
+    text-align: right;
     box-sizing: block;
 }
 .active {
