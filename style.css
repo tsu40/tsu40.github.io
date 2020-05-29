@@ -42,6 +42,18 @@ nav ul li: hover {
     background: white;
 }
 
+.toggle {
+    label {
+    color: black;
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 50px;
+    font-weight: bold
+    text-align right;
+    box-sizing: border-box;
+}
+
+
 
 h3 a {
     color: black;
