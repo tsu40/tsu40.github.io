@@ -25,6 +25,7 @@ nav ul {
     position: fixed;
     overflow: auto;
     background: #2c3e50;
+    width: 100%
 }
 
 nav ul li {
@@ -32,6 +33,7 @@ nav ul li {
   margin-top: 55px;  
   text-align: center; 
   padding: 0 0;  
+  display: block;  
 }
 nav ul li a {
   color: black;
@@ -50,7 +52,7 @@ nav ul li: hover {
     padding-left: 50px;
     font-weight: bold
     text-align right;
-    box-sizing: border-box;
+    box-sizing: block;
 }
 
 
