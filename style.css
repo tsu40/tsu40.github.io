@@ -72,6 +72,10 @@ nav ul li: hover {
     display: block;
 }
 
+.hello {
+    font-size: 34px;
+    font-weight: bold;
+}
 
 h3 a {
     color: black;
