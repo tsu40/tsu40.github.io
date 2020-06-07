@@ -61,7 +61,8 @@ nav ul li: hover {
     color: black;
     font-size: 30px;
     line-height: 80px;
-    margin-right: 50px;
+    margin-right: 40px;
+    margin-left: -40px;
     margin-top: -60px;
     font-weight: bold;
     text-align: right;
