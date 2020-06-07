@@ -59,8 +59,23 @@ nav ul li: hover {
 #check:checked ~ ul {
   top: 0;
   }
+ 
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 40px;
+}
+p {
+  font-size: 14px;
+}
   
-
 .everything {
     padding: 8px 10px;
     font-family: Roboto;
