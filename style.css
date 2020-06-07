@@ -72,6 +72,9 @@ nav ul li: hover {
     display: block;
 }
 
+.everything {
+    margin: auto, 25px;
+
 .hello {
     font-size: 34px;
     font-weight: bold;
