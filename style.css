@@ -28,7 +28,7 @@ nav {
 }
 
 nav ul {
-    margin-top: -25px;
+    margin-top: 25px;
     text-transform: uppercase;
     padding: 0;
     display: block;
