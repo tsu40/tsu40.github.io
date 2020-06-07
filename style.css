@@ -28,7 +28,7 @@ nav {
 }
 
 nav ul {
-    margin-top: 0 auto;
+    margin-top: 0;
     text-transform: uppercase;
     padding: 0;
     display: block;
@@ -42,7 +42,7 @@ nav ul {
 
 nav ul li {
   list-style: none;
-  margin-top: 20px;  
+  margin: 40px 0;  
   text-align: center; 
   padding: 0 0;   
 }
@@ -60,7 +60,7 @@ nav ul li: hover {
     color: black;
     font-size: 30px;
     line-height: 80px;
-    padding: 10px 20px;
+    margin-right: 40px;
     font-weight: bold;
     text-align: right;
     box-sizing: block;
