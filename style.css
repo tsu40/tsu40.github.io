@@ -74,6 +74,8 @@ nav ul li: hover {
 
 .everything {
     margin: auto, 32px;
+    padding-right: 30px;
+    padding-left: 30px;
 }
 .hello {
     font-size: 34px;
